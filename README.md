@@ -12,3 +12,9 @@ http://www.pythonchallenge.com/pc/def/ocr.html
 
 challenge 3 web site:
 http://www.pythonchallenge.com/pc/def/equality.html
+
+challenge 4 web site:
+http://www.pythonchallenge.com/pc/def/linkedlist.php
+
+challenge 5 web site：
+http://www.pythonchallenge.com/pc/def/peak.html
