@@ -18,3 +18,6 @@ http://www.pythonchallenge.com/pc/def/linkedlist.php
 
 challenge 5 web site：
 http://www.pythonchallenge.com/pc/def/peak.html
+
+challenge 6 web site:
+http://www.pythonchallenge.com/pc/def/channel.html
