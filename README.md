@@ -21,3 +21,6 @@ http://www.pythonchallenge.com/pc/def/peak.html
 
 challenge 6 web site:
 http://www.pythonchallenge.com/pc/def/channel.html
+
+challenge 7 web site:
+http://www.pythonchallenge.com/pc/def/oxygen.html
